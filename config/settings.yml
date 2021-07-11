@@ -1,0 +1,4 @@
+plugins:
+  definitions_enabled:
+    default: true
+    client: true

@@ -1,0 +1,16 @@
+@import "./common/foundation/variables";
+
+.discourse-definitions-definition {
+	cursor: pointer;
+	text-decoration-color: dark-light-choose(#228B22, #90EE90);
+	text-decoration-line: underline;
+}
+
+.discourse-definitions-tooltip {
+	background: #3498db;
+	border-radius: 1%;
+	max-width: 200px;
+	padding: 1%;
+	position: absolute;
+	z-index: 1000;
+}
